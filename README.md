@@ -1,4 +1,3 @@
-Here's a sample `README.md` file for your Spring Boot calculator project on GitHub:
 
 ```markdown
 # Spring Boot Calculator Application
